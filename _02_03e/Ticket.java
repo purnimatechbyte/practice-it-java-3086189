@@ -1,5 +1,4 @@
 package _02_03e;
-
 public class Ticket {
 
   public Ticket() {

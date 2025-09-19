@@ -6,7 +6,7 @@ public class Employee {
 
     // Create a variable called age of type int and assign it the value 29.
 
-    // Print the age variable to the console.
+    // Print age variable to the console.
 
     // Create a variable called isAManager of type boolean and assign it the value
     // true.
